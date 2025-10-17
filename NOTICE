@@ -5,7 +5,217 @@ Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+pg
+[https://github.com/brianc/node-postgres](https://github.com/brianc/node-postgres)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+express
+[https://github.com/expressjs/express](https://github.com/expressjs/express)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+body-parser
+[https://github.com/expressjs/body-parser](https://github.com/expressjs/body-parser)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+cookie
+[https://github.com/jshttp/cookie](https://github.com/jshttp/cookie)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+serve-static
+[https://github.com/expressjs/serve-static](https://github.com/expressjs/serve-static)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+pg-pool
+[https://github.com/brianc/node-pg-pool](https://github.com/brianc/node-pg-pool)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+pg-types
+[https://github.com/brianc/node-pg-types](https://github.com/brianc/node-pg-types)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+pg-connection-string
+[https://github.com/brianc/node-postgres](https://github.com/brianc/node-postgres)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+pgpass
+[https://github.com/hoonix/node-pgpass](https://github.com/hoonix/node-pgpass)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+http-errors
+[https://github.com/jshttp/http-errors](https://github.com/jshttp/http-errors)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+qs
+[https://github.com/ljharb/qs](https://github.com/ljharb/qs)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+--------------------------------------------------------------------------------------------
+
+send
+[https://github.com/pillarjs/send](https://github.com/pillarjs/send)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+finalhandler
+[https://github.com/pillarjs/finalhandler](https://github.com/pillarjs/finalhandler)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+type-is
+[https://github.com/jshttp/type-is](https://github.com/jshttp/type-is)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+debug
+[https://github.com/debug-js/debug](https://github.com/debug-js/debug)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+bytes
+[https://github.com/visionmedia/bytes.js](https://github.com/visionmedia/bytes.js)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+iconv-lite
+[https://github.com/ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+mime-types
+[https://github.com/jshttp/mime-types](https://github.com/jshttp/mime-types)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+methods
+[https://github.com/jshttp/methods](https://github.com/jshttp/methods)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+utils-merge
+[https://github.com/jaredhanson/utils-merge](https://github.com/jaredhanson/utils-merge)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+raw-body
+[https://github.com/stream-utils/raw-body](https://github.com/stream-utils/raw-body)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+escape-html
+[https://github.com/component/escape-html](https://github.com/component/escape-html)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+etag
+[https://github.com/jshttp/etag](https://github.com/jshttp/etag)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+content-disposition
+[https://github.com/jshttp/content-disposition](https://github.com/jshttp/content-disposition)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+vary
+[https://github.com/jshttp/vary](https://github.com/jshttp/vary)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+ipaddr.js
+[https://github.com/whitequark/ipaddr.js](https://github.com/whitequark/ipaddr.js)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+mime
+[https://github.com/broofa/mime](https://github.com/broofa/mime)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+accepts
+[https://github.com/jshttp/accepts](https://github.com/jshttp/accepts)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+proxy-addr
+[https://github.com/jshttp/proxy-addr](https://github.com/jshttp/proxy-addr)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+path-to-regexp
+[https://github.com/pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+array-flatten
+[https://github.com/blakeembrey/array-flatten](https://github.com/blakeembrey/array-flatten)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+forwarded
+[https://github.com/jshttp/forwarded](https://github.com/jshttp/forwarded)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+setprototypeof
+[https://github.com/wesleytodd/setprototypeof](https://github.com/wesleytodd/setprototypeof)
+License: ISC
+[https://opensource.org/licenses/ISC](https://opensource.org/licenses/ISC)
+--------------------------------------------------------------------------
+
+inherits
+[https://github.com/isaacs/inherits](https://github.com/isaacs/inherits)
+License: ISC
+[https://opensource.org/licenses/ISC](https://opensource.org/licenses/ISC)
+--------------------------------------------------------------------------
+
+split2
+[https://github.com/mcollina/split2](https://github.com/mcollina/split2)
+License: ISC
+[https://opensource.org/licenses/ISC](https://opensource.org/licenses/ISC)
+--------------------------------------------------------------------------
+
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
