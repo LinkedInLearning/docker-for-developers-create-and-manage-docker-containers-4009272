@@ -5,6 +5,8 @@ This is the repository for the LinkedIn Learning course `Docker for Developers: 
 
 ## Course Description
 
+Discover how to leverage Docker for application development. Join instructor Shelley Benhoff as she outlines essential Docker skills—from basic application setup to deploying your own application to the cloud. Learn to build and run containers, write clear and efficient Dockerfiles, and manage persistent storage and networking to power real-world applications. Along the way, through interactive examples, you’ll learn how to inspect and troubleshoot container lifecycles and manage multicontainer applications using Docker Compose. Explore basic clustering with Swarm and learn how to deploy and scale workloads in Kubernetes. By the end of this course, you’ll be prepared to confidently create, manage, and deploy Docker containers in your everyday development workflow.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -24,17 +26,11 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
 ## Instructor
 
-Instructor name
+Shelley Benhoff
 
-Instructor description
+Author | Docker Captain | Co-Owner at HoffsTech, LLC
 
                             
 
@@ -43,6 +39,6 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker-containers
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFwGd9LkrWAiQ/learning-public-crop_675_1200/B4EZnvMDClHcAY-/0/1760654537636?e=2147483647&v=beta&t=cz9QW3lf6l6zze8jL6bmkSzhOWJsdQ4qobnc9-xj96I
 
