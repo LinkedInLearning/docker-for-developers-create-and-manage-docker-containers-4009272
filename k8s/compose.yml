@@ -1,6 +1,6 @@
 services:
   app:
-    image: sbenhoff/docker-demo:v2
+    image: iseepatterns/docker-demo:v2
     build:
       context: .
       dockerfile: Dockerfile

@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: kompose convert
+    kompose.version: 1.37.0 (HEAD)
+  labels:
+    io.kompose.service: app
+  name: app
+  namespace: myapp
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      io.kompose.service: app
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: kompose convert
+        kompose.version: 1.37.0 (HEAD)
+      labels:
+        io.kompose.service: app
+    spec:
+      containers:
+        - env:
+            - name: DATABASE_URL
+              value: postgres://user:password@db:5432/messages
+          image: iseepatterns/docker-demo:v4
+          name: app
+          ports:
+            - containerPort: 3000
+              protocol: TCP
+      restartPolicy: Always
