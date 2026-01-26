@@ -1,4 +1,4 @@
-name: Build and Push Docker Image
+name: Build and Push Docker Imagee
 
 on:
   pull_request:
@@ -27,4 +27,5 @@ jobs:
         with:
           context: .
           push: true
+
           tags: anarawade/docker-k8s-example:latest
