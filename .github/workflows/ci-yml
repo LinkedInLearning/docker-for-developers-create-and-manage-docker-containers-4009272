@@ -1,9 +1,9 @@
-name: Build and Push Docker Imagee
+name: Build and Push Docker Imageee
 
 on:
   pull_request:
     branches:
-      - main  # Trigger on pull request to main branch
+      - main
 
 jobs:
   build-and-push:
