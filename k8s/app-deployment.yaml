@@ -25,7 +25,7 @@ spec:
         - env:
             - name: DATABASE_URL
               value: postgres://user:password@db:5432/messages
-          image: sbenhoff/docker-demo:v3
+          image: tuansystems/docker-stit:v4
           name: app
           ports:
             - containerPort: 3000
