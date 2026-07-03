@@ -1,6 +1,6 @@
 services:
   app:
-    image: sbenhoff/docker-demo:v2
+    image: tuansystems/docker-stit:v4
     build:
       context: .
       dockerfile: Dockerfile
